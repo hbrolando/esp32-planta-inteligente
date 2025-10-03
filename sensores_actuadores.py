@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 
 # Configuración
-PUERTO_SERIAL = 'COM8'  # COM8 PUERTO
+PUERTO_SERIAL = 'COM8'  # COM8 PUERTO DE COMUNICACION
 BAUDRATE = 9600
 DB_FILE = 'sensores.db'
 
